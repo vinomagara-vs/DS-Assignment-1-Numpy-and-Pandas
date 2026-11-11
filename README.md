@@ -1,6 +1,6 @@
 # DS-Assignment-1-Numpy-and-Pandas
 **Overview**
-This project demonstrates the fundamental concepts of NumPy and Pandas for data manipulation, exploration, and analysis. The assignment covers working with 1-dimensional arrays, 2-dimensional arrays, Pandas Series, and DataFrames to perform common data science operations.
+This project demonstrates the fundamental concepts of NumPy and Pandas for data manipulation, exploration, and analysis. The assignment covers working with 1-dimensional arrays, 2-dimensional arrays in NumPy then Pandas Series, and Data Frames to perform common data science operations.
 
 **Objectives**
 Understand NumPy array creation and manipulation.
